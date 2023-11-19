@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">pokemon-retrofit</string>
+    <string name="pokemon_image">Pokemon Image</string>
 </resources>
