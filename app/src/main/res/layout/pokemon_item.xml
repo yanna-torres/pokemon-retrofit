@@ -18,7 +18,6 @@
     android:layout_marginTop="8dp">
 
     <ImageView
-        android:background="@drawable/charmander"
         android:id="@+id/ivPokemon"
         android:layout_width="200dp"
         android:layout_height="200dp"
@@ -47,7 +46,7 @@
         app:layout_constraintTop_toBottomOf="@+id/tvNumber"
         android:textColor="#313131"
         android:textSize="24sp"
-        tools:text="Charmander"/>
+        tools:text="Pokemon"/>
     
     <LinearLayout
         android:layout_width="wrap_content"
@@ -62,11 +61,11 @@
             android:layout_width="125dp"
             android:textAlignment="center"
             android:gravity="center_horizontal"
-            android:background="#FD7D24"
+            android:background="#A4ACAF"
             android:layout_height="wrap_content"
-            android:textColor="#FFFFFF"
+            android:textColor="#212121"
             android:textSize="12sp"
-            tools:text="Fire"/>
+            tools:text="Type"/>
 
         <TextView
             android:layout_marginStart="10dp"
@@ -74,11 +73,11 @@
             android:layout_width="125dp"
             android:textAlignment="center"
             android:gravity="center_horizontal"
-            android:background="#FD7D24"
+            android:background="#A4ACAF"
             android:layout_height="wrap_content"
-            android:textColor="#FFFFFF"
+            android:textColor="#212121"
             android:textSize="12sp"
-            tools:text="Fire"/>
+            tools:text="Type"/>
     </LinearLayout>
 
 
