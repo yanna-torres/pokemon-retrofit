@@ -9,7 +9,7 @@
 >
 > **Professor:** Dr. Windson Viana
 
-**Sumário: [A Atividade](#a-atividade-page_with_curl) • [A API](#a-api-woman_technologist) • [Main Activity](#main-activity-pushpin) • [Resultados](#resultados-play_or_pause) • [Próximos Passos](#proximos-passos-spiral_notepad) •**
+**Sumário: [A Atividade](#a-atividade-page_with_curl) • [A API](#a-api-woman_technologist) • [Main Activity](#main-activity-pushpin) • [Resultados](#resultados-play_or_pause_button) • [Próximos Passos](#próximos-passos-spiral_notepad) •**
 
 ## A atividade :page_with_curl:
 
