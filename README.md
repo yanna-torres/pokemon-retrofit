@@ -182,6 +182,7 @@ class MainActivity : AppCompatActivity() {
 
 ## Resultados :play_or_pause_button:
 
+![Resultados](poke02.gif)
 
 
 ## Próximos Passos :spiral_notepad:
